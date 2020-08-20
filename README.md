@@ -6,6 +6,9 @@ This repository has a quick analysis comparing the developers in GCC (Gulf Coope
 2. pandas
 3. matplotlib.pyplot
 
+# Installation:
+There are no installations required. However, make sure to extract the survey_results_public.zip file for the code to be able to access the .csv version. 
+
 # Project Motivation:
 I am a developer in Saudi Arabia which is part of the GCC (Gulf Cooperation Council) who studied Software Engineering degreee in the UK. I couldn't help but notice the slighly different approach to development between my days in the UK and my days in Saudi. The GCC countries are not known for taking a lead in terms of developing new solutions but rather adopting solutions and enhancing them. This has left me personally slightly disappointed since I wanted to work on introducing new solutions that will change the indsutry like the ones introduced by Google, Amazon, and Uber.
 
@@ -21,8 +24,8 @@ Jupyter Notebook file containing the anlaysis and the results achieved.
 ## developer_survey_2020 Folder:
 ### README_2020.txt
 The stackoverflow readme file.
-### survey_results_public.csv
-The file containing the resutls of the survey. 
+### survey_results_public.zip
+The file containing the resutls of the survey in a compressed format. Please extract this file for the code to work. 
 ### survey_results_schema.csv
 The file containign the questions to address the columns in the survey_results_public.csv
 
