@@ -2,9 +2,9 @@
 This repository has a quick analysis comparing the developers in GCC (Gulf Cooperation Council) to developers in the Rest of the world using 2020 Stack Overflow Developer Survey. 
 
 # Libraries Used:
-numpy
-pandas
-matplotlib.pyplot
+## numpy
+## pandas
+## matplotlib.pyplot
 
 # Project Motivation:
 I am a developer in Saudi Arabia which is part of the GCC (Gulf Cooperation Council) who studied Software Engineering degreee in the UK. I couldn't help but notice the slighly different approach to development between my days in the UK and my days in Saudi. The GCC countries are not known for taking a lead in terms of developing new solutions but rather adopting solutions and enhancing them. This has left me personally slightly disappointed since I wanted to work on introducing new solutions that will change the indsutry like the ones introduced by Google, Amazon, and Uber.
